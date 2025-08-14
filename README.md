@@ -33,7 +33,10 @@ The dataset (advertising.csv) contains:
 
 # 📊 Visualization
 The plot below shows the relationship between actual sales and predicted sales:
-![Actual vs Predicted Sales](figures/plot.png)
+<p align="center">
+  <img src="figures/plot.png" width="500">
+</p>
+
 The red line represents the ideal prediction line (perfect model).
 Points close to the line indicate accurate predictions.
 
