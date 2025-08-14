@@ -3,32 +3,32 @@ This project applies Multiple Linear Regression to predict sales based on advert
 
 # 📂 Dataset
 The dataset (advertising.csv) contains:
-• TV – Advertising budget spent on TV ads (in thousands of dollars)
-• Radio – Advertising budget spent on radio ads (in thousands of dollars)
-• Newspaper – Advertising budget spent on newspaper ads (in thousands of dollars)
-• Sales – Product sales (in thousands of units)
+1. TV – Advertising budget spent on TV ads (in thousands of dollars)
+2. Radio – Advertising budget spent on radio ads (in thousands of dollars)
+3. Newspaper – Advertising budget spent on newspaper ads (in thousands of dollars)
+4. Sales – Product sales (in thousands of units)
 
 # 🛠️ Technologies Used
-• Python 3
-• Pandas – Data manipulation
-• NumPy – Numerical operations
-• Matplotlib – Data visualization
-• scikit-learn – Machine learning model
+1. Python 3
+2. Pandas – Data manipulation
+3. NumPy – Numerical operations
+4. Matplotlib – Data visualization
+5. scikit-learn – Machine learning model
 
 # 📈 Model Information
-• Algorithm: Multiple Linear Regression
-• Target Variable (y): Sales
-• Features (X): TV, Radio, Newspaper
-• Train/Test Split: 80% train, 20% test
+1. Algorithm: Multiple Linear Regression
+2. Target Variable (y): Sales
+3. Features (X): TV, Radio, Newspaper
+4. Train/Test Split: 80% train, 20% test
 
 # 🔍 Model Performance
-• Intercept: 4.7732
-• Coefficients:
+1. Intercept: 4.7732
+2. Coefficients:
 • TV: 0.05
 • Radio: 0.11
 • Newspaper: -0.00
-• R² Score: 0.8645
-• Mean Squared Error: 4.5225
+3. R² Score: 0.8645
+4. Mean Squared Error: 4.5225
  This means the model explains 86.45% of the variance in sales data.
 
 # 🚀 How to Run
