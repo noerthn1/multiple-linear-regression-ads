@@ -31,6 +31,12 @@ The dataset (advertising.csv) contains:
 4. Mean Squared Error: 4.5225
  This means the model explains 86.45% of the variance in sales data.
 
+# 📊 Visualization
+The plot below shows the relationship between actual sales and predicted sales:
+![Actual vs Predicted Sales](figures/plot.png)
+The red line represents the ideal prediction line (perfect model).
+Points close to the line indicate accurate predictions.
+
 # 🚀 How to Run
 1. Clone this repository :
 - git clone https://github.com/your-username/multiple-linear-regression.git
