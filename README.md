@@ -7,7 +7,7 @@ The dataset (advertising.csv) contains:
 2. Radio – Advertising budget spent on radio ads (in thousands of dollars)
 3. Newspaper – Advertising budget spent on newspaper ads (in thousands of dollars)
 4. Sales – Product sales (in thousands of units)
-Source : https://www.kaggle.com/datasets/ashydv/advertising-dataset
+- Source : https://www.kaggle.com/datasets/ashydv/advertising-dataset
 
 # 🛠️ Technologies Used
 1. Python 3
