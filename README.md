@@ -24,18 +24,18 @@ The dataset (advertising.csv) contains:
 # 🔍 Model Performance
 1. Intercept: 4.7732
 2. Coefficients:
-• TV: 0.05
-• Radio: 0.11
-• Newspaper: -0.00
+- TV: 0.05
+- Radio: 0.11
+- Newspaper: -0.00
 3. R² Score: 0.8645
 4. Mean Squared Error: 4.5225
  This means the model explains 86.45% of the variance in sales data.
 
 # 🚀 How to Run
 1. Clone this repository :
-   git clone https://github.com/your-username/multiple-linear-regression.git
+   - git clone https://github.com/your-username/multiple-linear-regression.git
 2. Navigate to the project folder:
-   cd multiple-linear-regression
+   - cd multiple-linear-regression
 3. Install required packages:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 4. Run on jupyter notebook or python script
